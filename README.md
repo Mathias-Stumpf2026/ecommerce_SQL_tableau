@@ -1,0 +1,2 @@
+# ecommerce_SQL_tableau
+Analyse_diverser Geschäftsfragen
